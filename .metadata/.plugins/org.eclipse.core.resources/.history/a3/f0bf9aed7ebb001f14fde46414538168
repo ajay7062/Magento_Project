@@ -1,0 +1,4 @@
+baseUrl=https://magento.softwaretestingboard.com/ 
+browser=chrome
+email = cs923@gmail.com
+password = cs923

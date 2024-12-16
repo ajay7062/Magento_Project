@@ -1,0 +1,472 @@
+[INFO ] 2024-12-15 20:05:25.601 [main] magento - url opened
+[INFO ] 2024-12-15 20:05:25.630 [main] magento - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-12-15 20:05:27.606 [main] magento - Clicked on sign in link
+[INFO ] 2024-12-15 20:05:30.793 [main] magento - ***************TestCase Verify Sign out starts*****************
+[INFO ] 2024-12-15 20:06:03.888 [main] magento - url opened
+[INFO ] 2024-12-15 20:06:03.914 [main] magento - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-12-15 20:06:10.827 [main] magento - ***************TestCase Verify Sign out starts*****************
+[INFO ] 2024-12-15 20:06:44.066 [main] magento - url opened
+[INFO ] 2024-12-15 20:06:44.089 [main] magento - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-12-15 20:06:49.663 [main] magento - ***************TestCase Verify Sign out starts*****************
+[INFO ] 2024-12-15 20:10:48.518 [main] magento - url opened
+[INFO ] 2024-12-15 20:10:48.541 [main] magento - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-12-15 20:11:20.813 [main] magento - url opened
+[INFO ] 2024-12-15 20:11:21.881 [main] magento - ***************TestCase VerifyLogin starts*****************
+[INFO ] 2024-12-15 20:11:29.448 [main] magento - ***************TestCase VerifyLogin starts*****************
+[INFO ] 2024-12-15 20:11:35.428 [main] magento - ***************TestCase Verify Sign out starts*****************
+[INFO ] 2024-12-15 20:14:18.288 [main] magento - url opened
+[INFO ] 2024-12-15 20:14:19.455 [main] magento - ***************TestCase VerifyLogin starts*****************
+[INFO ] 2024-12-15 20:14:29.571 [main] magento - ***************TestCase VerifyLogin starts*****************
+[INFO ] 2024-12-15 20:20:47.045 [main] magento - url opened
+[INFO ] 2024-12-15 20:20:47.076 [main] magento - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-12-15 20:20:48.279 [main] magento - Clicked on sign in link
+[INFO ] 2024-12-15 20:20:53.392 [main] magento - ***************TestCase Verify Sign out starts*****************
+[INFO ] 2024-12-15 20:20:53.429 [main] magento - ***************TestCase Verify Registration and Login starts*****************
+[INFO ] 2024-12-15 20:21:59.554 [main] magento - url opened
+[INFO ] 2024-12-15 20:21:59.578 [main] magento - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-12-15 20:22:01.105 [main] magento - Clicked on sign in link
+[INFO ] 2024-12-15 20:22:02.337 [main] magento - ***************TestCase Verify Sign out starts*****************
+[INFO ] 2024-12-15 20:22:02.366 [main] magento - ***************TestCase Verify Registration and Login starts*****************
+[INFO ] 2024-12-15 20:55:19.514 [main] magento - url opened
+[INFO ] 2024-12-15 20:55:19.538 [main] magento - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-12-15 20:55:22.736 [main] magento - Clicked on sign in link
+[INFO ] 2024-12-15 20:55:32.810 [main] magento - ***************TestCase Verify Sign out starts*****************
+[INFO ] 2024-12-15 20:55:34.076 [main] magento - Clicked on sign in link
+[INFO ] 2024-12-15 20:55:44.120 [main] magento - ***************TestCase Verify Registration and Login starts*****************
+[INFO ] 2024-12-15 20:55:46.317 [main] magento - Clicked on Create an Account in link
+[INFO ] 2024-12-15 20:56:14.008 [main] magento - url opened
+[INFO ] 2024-12-15 20:56:15.192 [main] magento - ***************TestCase VerifyLogin starts*****************
+[INFO ] 2024-12-15 20:56:16.485 [main] magento - Clicked on sign in link
+[INFO ] 2024-12-15 20:56:26.581 [main] magento - ***************TestCase VerifyLogin starts*****************
+[INFO ] 2024-12-15 20:56:27.725 [main] magento - Clicked on sign in link
+[INFO ] 2024-12-15 21:00:19.106 [main] magento - url opened
+[INFO ] 2024-12-15 21:00:19.131 [main] magento - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-12-15 21:00:20.482 [main] magento - Clicked on sign in link
+[INFO ] 2024-12-15 21:00:30.512 [main] magento - ***************TestCase Verify Sign out starts*****************
+[INFO ] 2024-12-15 21:00:31.674 [main] magento - Clicked on sign in link
+[INFO ] 2024-12-15 21:00:41.723 [main] magento - ***************TestCase Verify Registration and Login starts*****************
+[INFO ] 2024-12-15 21:00:42.865 [main] magento - Clicked on Create an Account link
+[INFO ] 2024-12-15 21:02:53.156 [main] magento - url opened
+[INFO ] 2024-12-15 21:02:53.182 [main] magento - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-12-15 21:02:54.603 [main] magento - Clicked on sign in link
+[INFO ] 2024-12-15 21:03:04.681 [main] magento - ***************TestCase Verify Sign out starts*****************
+[INFO ] 2024-12-15 21:03:05.837 [main] magento - Clicked on sign in link
+[INFO ] 2024-12-15 21:03:15.919 [main] magento - ***************TestCase Verify Registration and Login starts*****************
+[INFO ] 2024-12-15 21:03:17.551 [main] magento - Clicked on Create an Account link
+[INFO ] 2024-12-15 21:05:37.064 [main] magento - url opened
+[INFO ] 2024-12-15 21:05:37.089 [main] magento - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-12-15 21:05:38.318 [main] magento - Clicked on sign in link
+[INFO ] 2024-12-15 21:05:48.429 [main] magento - ***************TestCase Verify Sign out starts*****************
+[INFO ] 2024-12-15 21:05:49.564 [main] magento - Clicked on sign in link
+[INFO ] 2024-12-15 21:05:59.654 [main] magento - ***************TestCase Verify Registration and Login starts*****************
+[INFO ] 2024-12-15 21:06:00.881 [main] magento - Clicked on Create an Account link
+[INFO ] 2024-12-15 21:22:33.752 [main] magento - url opened
+[INFO ] 2024-12-15 21:22:33.774 [main] magento - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-12-15 21:22:34.971 [main] magento - Clicked on sign in link
+[INFO ] 2024-12-15 21:22:45.033 [main] magento - ***************TestCase Verify Sign out starts*****************
+[INFO ] 2024-12-15 21:22:46.196 [main] magento - Clicked on sign in link
+[INFO ] 2024-12-15 21:22:56.265 [main] magento - ***************TestCase Verify Registration and Login starts*****************
+[INFO ] 2024-12-15 21:22:57.321 [main] magento - Clicked on Create an Account link
+[INFO ] 2024-12-15 21:23:01.023 [main] magento - clicked on Create An AccountBtn button
+[INFO ] 2024-12-15 21:24:59.478 [main] magento - url opened
+[INFO ] 2024-12-15 21:24:59.506 [main] magento - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-12-15 21:25:00.747 [main] magento - Clicked on sign in link
+[INFO ] 2024-12-15 21:25:10.838 [main] magento - ***************TestCase Verify Sign out starts*****************
+[INFO ] 2024-12-15 21:25:11.992 [main] magento - Clicked on sign in link
+[INFO ] 2024-12-15 21:25:22.084 [main] magento - ***************TestCase Verify Registration and Login starts*****************
+[INFO ] 2024-12-15 21:25:23.213 [main] magento - Clicked on Create an Account link
+[INFO ] 2024-12-15 21:25:27.120 [main] magento - clicked on Create An AccountBtn button
+[INFO ] 2024-12-15 21:26:36.440 [main] magento - url opened
+[INFO ] 2024-12-15 21:26:36.466 [main] magento - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-12-15 21:26:37.772 [main] magento - Clicked on sign in link
+[INFO ] 2024-12-15 21:26:47.823 [main] magento - ***************TestCase Verify Sign out starts*****************
+[INFO ] 2024-12-15 21:26:48.956 [main] magento - Clicked on sign in link
+[INFO ] 2024-12-15 21:26:58.993 [main] magento - ***************TestCase Verify Registration and Login starts*****************
+[INFO ] 2024-12-15 21:27:00.096 [main] magento - Clicked on Create an Account link
+[INFO ] 2024-12-15 21:27:03.953 [main] magento - clicked on Create An AccountBtn button
+[INFO ] 2024-12-15 21:27:03.999 [main] magento - ***************TestCase Verify Registration ends*****************
+[INFO ] 2024-12-15 21:52:11.067 [main] magento - url opened
+[INFO ] 2024-12-15 21:52:11.092 [main] magento - ***************Verify Sign out starts*****************
+[INFO ] 2024-12-15 21:52:21.192 [main] magento - ***************Verify Create An Account starts*****************
+[INFO ] 2024-12-15 21:52:22.818 [main] magento - Clicked on Create an Account link
+[INFO ] 2024-12-15 21:52:26.639 [main] magento - clicked on Create An AccountBtn button
+[INFO ] 2024-12-15 21:52:26.694 [main] magento - ***************TestCase Verify Registration ends*****************
+[INFO ] 2024-12-15 21:56:19.964 [main] magento - url opened
+[INFO ] 2024-12-15 21:56:19.988 [main] magento - ***************Verify Sign out starts*****************
+[INFO ] 2024-12-15 21:56:30.088 [main] magento - ***************Verify Create An Account starts*****************
+[INFO ] 2024-12-15 21:56:31.457 [main] magento - Clicked on Create an Account link
+[INFO ] 2024-12-15 21:56:35.288 [main] magento - clicked on Create An AccountBtn button
+[INFO ] 2024-12-15 21:56:35.348 [main] magento - ***************TestCase Verify Registration ends*****************
+[INFO ] 2024-12-15 21:59:44.110 [main] magento - url opened
+[INFO ] 2024-12-15 21:59:44.128 [main] magento - ***************Verify Sign out starts*****************
+[INFO ] 2024-12-15 21:59:59.224 [main] magento - ***************Verify Create An Account starts*****************
+[INFO ] 2024-12-15 22:00:00.513 [main] magento - Clicked on Create an Account link
+[INFO ] 2024-12-15 22:00:04.339 [main] magento - clicked on Create An AccountBtn button
+[INFO ] 2024-12-15 22:00:04.385 [main] magento - ***************TestCase Verify Registration ends*****************
+[INFO ] 2024-12-15 22:06:07.099 [main] magento - url opened
+[INFO ] 2024-12-15 22:06:07.121 [main] magento - ***************Verify Sign out starts*****************
+[INFO ] 2024-12-15 22:06:22.282 [main] magento - ***************Verify Create An Account starts*****************
+[INFO ] 2024-12-15 22:06:24.191 [main] magento - Clicked on Create an Account link
+[INFO ] 2024-12-15 22:06:27.999 [main] magento - clicked on Create An AccountBtn button
+[INFO ] 2024-12-15 22:06:28.033 [main] magento - ***************TestCase Verify Registration ends*****************
+[INFO ] 2024-12-15 22:08:01.668 [main] magento - url opened
+[INFO ] 2024-12-15 22:08:01.697 [main] magento - ***************Verify Sign out starts*****************
+[INFO ] 2024-12-15 22:08:16.805 [main] magento - ***************Verify Create An Account starts*****************
+[INFO ] 2024-12-15 22:08:18.101 [main] magento - Clicked on Create an Account link
+[INFO ] 2024-12-15 22:08:21.710 [main] magento - clicked on Create An AccountBtn button
+[INFO ] 2024-12-15 22:08:21.742 [main] magento - ***************TestCase Verify Registration ends*****************
+[INFO ] 2024-12-15 22:09:21.232 [main] magento - url opened
+[INFO ] 2024-12-15 22:09:21.254 [main] magento - ***************Verify Sign out starts*****************
+[INFO ] 2024-12-15 22:09:31.331 [main] magento - ***************Verify Create An Account starts*****************
+[INFO ] 2024-12-15 22:09:32.558 [main] magento - Clicked on Create an Account link
+[INFO ] 2024-12-15 22:09:35.294 [main] magento - clicked on Create An AccountBtn button
+[INFO ] 2024-12-15 22:10:00.090 [main] magento - url opened
+[INFO ] 2024-12-15 22:10:00.109 [main] magento - ***************Verify Sign out starts*****************
+[INFO ] 2024-12-15 22:10:10.250 [main] magento - ***************Verify Create An Account starts*****************
+[INFO ] 2024-12-15 22:10:11.452 [main] magento - Clicked on Create an Account link
+[INFO ] 2024-12-15 22:10:16.165 [main] magento - clicked on Create An AccountBtn button
+[INFO ] 2024-12-15 22:10:21.228 [main] magento - ***************TestCase Verify Registration ends*****************
+[INFO ] 2024-12-16 09:30:40.451 [main] magento - url opened
+[INFO ] 2024-12-16 09:30:40.743 [main] magento - ***************Verify Login starts*****************
+[INFO ] 2024-12-16 09:30:42.583 [main] magento - Clicked on sign in link
+[INFO ] 2024-12-16 09:30:52.651 [main] magento - ***************Verify Sign out starts*****************
+[INFO ] 2024-12-16 09:33:41.753 [main] magento - url opened
+[INFO ] 2024-12-16 09:33:41.783 [main] magento - ***************Verify Login starts*****************
+[INFO ] 2024-12-16 09:33:43.104 [main] magento - Clicked on sign in link
+[INFO ] 2024-12-16 09:33:53.158 [main] magento - ***************Verify Sign out starts*****************
+[INFO ] 2024-12-16 09:44:31.458 [main] magento - url opened
+[INFO ] 2024-12-16 09:44:31.482 [main] magento - ***************Verify Login starts*****************
+[INFO ] 2024-12-16 09:44:32.734 [main] magento - Clicked on sign in link
+[INFO ] 2024-12-16 09:44:32.739 [main] magento - Sign In Page Open
+[INFO ] 2024-12-16 09:44:32.886 [main] magento - Entered email address
+[INFO ] 2024-12-16 09:44:32.991 [main] magento - Entered password
+[INFO ] 2024-12-16 09:44:43.067 [main] magento - ***************Verify Sign out starts*****************
+[INFO ] 2024-12-16 09:49:11.736 [main] magento - url opened
+[INFO ] 2024-12-16 09:49:11.769 [main] magento - ***************Verify Login starts*****************
+[INFO ] 2024-12-16 09:49:13.353 [main] magento - Clicked on sign in link
+[INFO ] 2024-12-16 09:49:13.357 [main] magento - Sign In Page Open
+[INFO ] 2024-12-16 09:49:13.501 [main] magento - Entered email address
+[INFO ] 2024-12-16 09:49:13.600 [main] magento - Entered password
+[INFO ] 2024-12-16 09:49:16.475 [main] magento - Clicked on sign in link..
+[INFO ] 2024-12-16 09:49:26.559 [main] magento - ***************Verify Sign out starts*****************
+[INFO ] 2024-12-16 09:49:28.359 [main] magento - Sign Out
+[INFO ] 2024-12-16 09:49:28.359 [main] magento - ***************Verify Sign out ends*****************
+[INFO ] 2024-12-16 10:00:28.233 [main] magento - url opened
+[INFO ] 2024-12-16 10:00:28.254 [main] magento - ***************Verify Login starts*****************
+[INFO ] 2024-12-16 10:00:30.056 [main] magento - Clicked on sign in link
+[INFO ] 2024-12-16 10:00:30.058 [main] magento - Sign In Page Open
+[INFO ] 2024-12-16 10:00:30.203 [main] magento - Entered email address
+[INFO ] 2024-12-16 10:00:30.313 [main] magento - Entered password
+[INFO ] 2024-12-16 10:00:32.805 [main] magento - Clicked on sign in link..
+[INFO ] 2024-12-16 10:00:42.846 [main] magento - ***************Verify Sign out starts*****************
+[INFO ] 2024-12-16 10:00:45.093 [main] magento - Sign Out
+[INFO ] 2024-12-16 10:00:45.094 [main] magento - ***************Verify Sign out ends*****************
+[INFO ] 2024-12-16 10:12:55.333 [main] magento - url opened
+[INFO ] 2024-12-16 10:12:55.358 [main] magento - ***************Verify Login starts*****************
+[INFO ] 2024-12-16 10:13:01.067 [main] magento - Clicked on sign in link
+[INFO ] 2024-12-16 10:13:01.076 [main] magento - Sign In Page Open
+[INFO ] 2024-12-16 10:13:01.227 [main] magento - Entered email address
+[INFO ] 2024-12-16 10:13:01.352 [main] magento - Entered password
+[INFO ] 2024-12-16 10:15:04.200 [main] magento - Clicked on sign in link..
+[INFO ] 2024-12-16 10:15:14.248 [main] magento - ***************Verify Sign out starts*****************
+[INFO ] 2024-12-16 10:15:44.729 [main] magento - url opened
+[INFO ] 2024-12-16 10:15:44.761 [main] magento - ***************Verify Login starts*****************
+[INFO ] 2024-12-16 10:15:46.140 [main] magento - Clicked on sign in link
+[INFO ] 2024-12-16 10:15:46.158 [main] magento - Sign In Page Open
+[INFO ] 2024-12-16 10:15:46.309 [main] magento - Entered email address
+[INFO ] 2024-12-16 10:15:46.415 [main] magento - Entered password
+[INFO ] 2024-12-16 10:15:48.982 [main] magento - Clicked on sign in link..
+[INFO ] 2024-12-16 10:15:59.094 [main] magento - ***************Verify Sign out starts*****************
+[INFO ] 2024-12-16 10:19:52.198 [main] magento - url opened
+[INFO ] 2024-12-16 10:19:52.223 [main] magento - ***************Verify Login starts*****************
+[INFO ] 2024-12-16 10:19:53.619 [main] magento - Clicked on sign in link
+[INFO ] 2024-12-16 10:19:53.621 [main] magento - Sign In Page Open
+[INFO ] 2024-12-16 10:19:53.764 [main] magento - Entered email address
+[INFO ] 2024-12-16 10:19:53.870 [main] magento - Entered password
+[INFO ] 2024-12-16 10:19:58.661 [main] magento - Clicked on sign in link..
+[INFO ] 2024-12-16 10:20:08.731 [main] magento - ***************Verify Sign out starts*****************
+[INFO ] 2024-12-16 10:20:10.661 [main] magento - Sign Out
+[INFO ] 2024-12-16 10:20:10.662 [main] magento - ***************Verify Sign out ends*****************
+[INFO ] 2024-12-16 10:22:04.563 [main] magento - url opened
+[INFO ] 2024-12-16 10:22:04.586 [main] magento - ***************Verify Login starts*****************
+[INFO ] 2024-12-16 10:22:06.118 [main] magento - Clicked on sign in link
+[INFO ] 2024-12-16 10:22:06.126 [main] magento - Sign In Page Open
+[INFO ] 2024-12-16 10:22:06.290 [main] magento - Entered email address
+[INFO ] 2024-12-16 10:22:06.397 [main] magento - Entered password
+[INFO ] 2024-12-16 10:22:09.197 [main] magento - Clicked on sign in link..
+[INFO ] 2024-12-16 10:22:19.311 [main] magento - ***************Verify Sign out starts*****************
+[INFO ] 2024-12-16 10:22:21.781 [main] magento - Sign Out
+[INFO ] 2024-12-16 10:22:21.782 [main] magento - ***************Verify Sign out ends*****************
+[INFO ] 2024-12-16 10:23:03.418 [main] magento - url opened
+[INFO ] 2024-12-16 10:23:03.445 [main] magento - ***************Verify Login starts*****************
+[INFO ] 2024-12-16 10:23:06.274 [main] magento - Clicked on sign in link
+[INFO ] 2024-12-16 10:23:06.277 [main] magento - Sign In Page Open
+[INFO ] 2024-12-16 10:23:06.438 [main] magento - Entered email address
+[INFO ] 2024-12-16 10:23:06.541 [main] magento - Entered password
+[INFO ] 2024-12-16 10:23:09.600 [main] magento - Clicked on sign in link..
+[INFO ] 2024-12-16 10:23:19.683 [main] magento - ***************Verify Sign out starts*****************
+[INFO ] 2024-12-16 10:23:22.557 [main] magento - Sign Out
+[INFO ] 2024-12-16 10:23:22.557 [main] magento - ***************Verify Sign out ends*****************
+[INFO ] 2024-12-16 10:26:06.522 [main] magento - url opened
+[INFO ] 2024-12-16 10:26:06.549 [main] magento - ***************Verify Login starts*****************
+[INFO ] 2024-12-16 10:26:08.315 [main] magento - Clicked on sign in link
+[INFO ] 2024-12-16 10:26:08.318 [main] magento - Sign In Page Open
+[INFO ] 2024-12-16 10:26:08.461 [main] magento - Entered email address
+[INFO ] 2024-12-16 10:26:08.584 [main] magento - Entered password
+[INFO ] 2024-12-16 10:26:13.073 [main] magento - Clicked on sign in link..
+[INFO ] 2024-12-16 10:44:25.850 [main] magento - url opened
+[INFO ] 2024-12-16 10:44:25.867 [main] magento - ***************Verify Login starts*****************
+[INFO ] 2024-12-16 10:44:28.491 [main] magento - Clicked on sign in link
+[INFO ] 2024-12-16 10:44:28.497 [main] magento - Sign In Page Open
+[INFO ] 2024-12-16 10:44:28.653 [main] magento - Entered email address
+[INFO ] 2024-12-16 10:44:28.758 [main] magento - Entered password
+[INFO ] 2024-12-16 10:44:36.029 [main] magento - Clicked on sign in link..
+[INFO ] 2024-12-16 10:46:58.664 [main] magento - url opened
+[INFO ] 2024-12-16 10:46:58.682 [main] magento - ***************Verify Login starts*****************
+[INFO ] 2024-12-16 10:47:00.806 [main] magento - Clicked on sign in link
+[INFO ] 2024-12-16 10:47:00.819 [main] magento - Sign In Page Open
+[INFO ] 2024-12-16 10:47:00.999 [main] magento - Entered email address
+[INFO ] 2024-12-16 10:47:01.123 [main] magento - Entered password
+[INFO ] 2024-12-16 10:47:06.700 [main] magento - Clicked on sign in link..
+[INFO ] 2024-12-16 10:47:14.780 [main] magento - VerifyLogin - Failed
+[INFO ] 2024-12-16 10:48:52.282 [main] magento - url opened
+[INFO ] 2024-12-16 10:48:52.307 [main] magento - ***************Verify Login starts*****************
+[INFO ] 2024-12-16 10:48:55.466 [main] magento - Clicked on sign in link
+[INFO ] 2024-12-16 10:48:55.478 [main] magento - Sign In Page Open
+[INFO ] 2024-12-16 10:48:55.709 [main] magento - Entered email address
+[INFO ] 2024-12-16 10:48:55.854 [main] magento - Entered password
+[INFO ] 2024-12-16 10:49:02.279 [main] magento - Clicked on sign in link..
+[INFO ] 2024-12-16 10:49:10.521 [main] magento - VerifyLogin - Passed
+[INFO ] 2024-12-16 10:50:16.333 [main] magento - url opened
+[INFO ] 2024-12-16 10:50:16.419 [main] magento - ***************Verify Login starts*****************
+[INFO ] 2024-12-16 10:50:18.115 [main] magento - Clicked on sign in link
+[INFO ] 2024-12-16 10:50:18.121 [main] magento - Sign In Page Open
+[INFO ] 2024-12-16 10:50:18.279 [main] magento - Entered email address
+[INFO ] 2024-12-16 10:50:18.396 [main] magento - Entered password
+[INFO ] 2024-12-16 10:50:21.797 [main] magento - Clicked on sign in link..
+[INFO ] 2024-12-16 10:50:29.348 [main] magento - VerifyLogin - Passed
+[INFO ] 2024-12-16 10:50:32.865 [main] magento - ***************TestCase Verify Login ends*****************
+[INFO ] 2024-12-16 10:52:02.915 [main] magento - url opened
+[INFO ] 2024-12-16 10:52:02.941 [main] magento - ***************Verify Login starts*****************
+[INFO ] 2024-12-16 10:52:05.500 [main] magento - Clicked on sign in link
+[INFO ] 2024-12-16 10:52:05.510 [main] magento - Sign In Page Open
+[INFO ] 2024-12-16 10:52:05.661 [main] magento - Entered email address
+[INFO ] 2024-12-16 10:52:05.776 [main] magento - Entered password
+[INFO ] 2024-12-16 10:52:11.539 [main] magento - Clicked on sign in link..
+[INFO ] 2024-12-16 10:52:27.121 [main] magento - VerifyLogin - Passed
+[INFO ] 2024-12-16 10:52:31.331 [main] magento - ***************TestCase Verify Login ends*****************
+[INFO ] 2024-12-16 11:00:45.782 [main] magento - url opened
+[INFO ] 2024-12-16 11:00:45.833 [main] magento - ***************Verify Login starts*****************
+[INFO ] 2024-12-16 11:00:45.902 [main] magento - ***************Verify Sign out starts*****************
+[INFO ] 2024-12-16 11:01:19.677 [main] magento - url opened
+[INFO ] 2024-12-16 11:01:19.700 [main] magento - ***************Verify Login starts*****************
+[INFO ] 2024-12-16 11:01:21.098 [main] magento - Clicked on sign in link
+[INFO ] 2024-12-16 11:01:21.101 [main] magento - Sign In Page Open
+[INFO ] 2024-12-16 11:01:21.246 [main] magento - Entered email address
+[INFO ] 2024-12-16 11:01:21.354 [main] magento - Entered password
+[INFO ] 2024-12-16 11:01:24.460 [main] magento - Clicked on sign in link..
+[INFO ] 2024-12-16 11:01:25.931 [main] magento - VerifyLogin - Passed
+[INFO ] 2024-12-16 11:01:27.679 [main] magento - ***************TestCase Verify Login ends*****************
+[INFO ] 2024-12-16 11:01:27.691 [main] magento - ***************Verify Sign out starts*****************
+[INFO ] 2024-12-16 11:01:37.788 [main] magento - ***************Verify Create An Account starts*****************
+[INFO ] 2024-12-16 11:01:39.372 [main] magento - Clicked on Create an Account link
+[INFO ] 2024-12-16 11:01:41.996 [main] magento - clicked on Create An AccountBtn button
+[INFO ] 2024-12-16 11:04:51.230 [main] magento - url opened
+[INFO ] 2024-12-16 11:04:51.254 [main] magento - ***************Verify Create An Account starts*****************
+[INFO ] 2024-12-16 11:04:52.657 [main] magento - Clicked on Create an Account link
+[INFO ] 2024-12-16 11:04:55.262 [main] magento - clicked on Create An AccountBtn button
+[INFO ] 2024-12-16 11:04:55.325 [main] magento - ***************Verify Sign out starts*****************
+[INFO ] 2024-12-16 11:05:05.420 [main] magento - ***************Verify Login starts*****************
+[INFO ] 2024-12-16 11:05:06.697 [main] magento - Clicked on sign in link
+[INFO ] 2024-12-16 11:05:06.698 [main] magento - Sign In Page Open
+[INFO ] 2024-12-16 11:05:06.821 [main] magento - Entered email address
+[INFO ] 2024-12-16 11:05:06.924 [main] magento - Entered password
+[INFO ] 2024-12-16 11:05:09.492 [main] magento - Clicked on sign in link..
+[INFO ] 2024-12-16 11:05:10.931 [main] magento - VerifyLogin - Passed
+[INFO ] 2024-12-16 11:05:12.670 [main] magento - ***************TestCase Verify Login ends*****************
+[INFO ] 2024-12-16 11:06:12.216 [main] magento - url opened
+[INFO ] 2024-12-16 11:06:12.250 [main] magento - ***************Verify Create An Account starts*****************
+[INFO ] 2024-12-16 11:06:12.324 [main] magento - ***************Verify Sign out starts*****************
+[INFO ] 2024-12-16 11:06:12.343 [main] magento - ***************Verify Login starts*****************
+[INFO ] 2024-12-16 11:06:36.314 [main] magento - url opened
+[INFO ] 2024-12-16 11:06:36.336 [main] magento - ***************Verify Create An Account starts*****************
+[INFO ] 2024-12-16 11:06:37.761 [main] magento - Clicked on Create an Account link
+[INFO ] 2024-12-16 11:06:41.667 [main] magento - clicked on Create An AccountBtn button
+[INFO ] 2024-12-16 11:06:41.704 [main] magento - ***************Verify Create An Account ends*****************
+[INFO ] 2024-12-16 11:06:41.711 [main] magento - ***************Verify Sign out starts*****************
+[INFO ] 2024-12-16 11:06:43.590 [main] magento - Sign Out
+[INFO ] 2024-12-16 11:06:43.590 [main] magento - ***************Verify Sign out ends*****************
+[INFO ] 2024-12-16 11:06:43.596 [main] magento - ***************Verify Login starts*****************
+[INFO ] 2024-12-16 11:06:45.048 [main] magento - Clicked on sign in link
+[INFO ] 2024-12-16 11:06:45.049 [main] magento - Sign In Page Open
+[INFO ] 2024-12-16 11:06:45.174 [main] magento - Entered email address
+[INFO ] 2024-12-16 11:06:45.275 [main] magento - Entered password
+[INFO ] 2024-12-16 11:06:47.313 [main] magento - Clicked on sign in link..
+[INFO ] 2024-12-16 11:06:48.879 [main] magento - VerifyLogin - Passed
+[INFO ] 2024-12-16 11:06:50.651 [main] magento - ***************TestCase Verify Login ends*****************
+[INFO ] 2024-12-16 11:28:47.062 [main] magento - url opened
+[INFO ] 2024-12-16 11:28:48.837 [main] magento - ***************Verify Sign out starts*****************
+[INFO ] 2024-12-16 11:28:59.321 [main] magento - ***************TestCase VerifyLogin starts*****************
+[INFO ] 2024-12-16 11:29:00.733 [main] magento - Clicked on sign in link
+[INFO ] 2024-12-16 11:29:00.736 [main] magento - Sign In Page Open
+[INFO ] 2024-12-16 11:29:00.887 [main] magento - Entered email address
+[INFO ] 2024-12-16 11:29:00.991 [main] magento - Entered password
+[INFO ] 2024-12-16 11:29:02.906 [main] magento - Clicked on sign in link..
+[INFO ] 2024-12-16 11:29:12.994 [main] magento - ***************TestCase VerifyLogin starts*****************
+[INFO ] 2024-12-16 11:29:14.540 [main] magento - Clicked on sign in link
+[INFO ] 2024-12-16 11:29:14.542 [main] magento - Sign In Page Open
+[INFO ] 2024-12-16 11:29:14.646 [main] magento - Entered email address
+[INFO ] 2024-12-16 11:29:14.732 [main] magento - Entered password
+[INFO ] 2024-12-16 11:29:14.802 [main] magento - Clicked on sign in link..
+[INFO ] 2024-12-16 11:32:38.169 [main] magento - url opened
+[INFO ] 2024-12-16 11:32:38.194 [main] magento - ***************Verify Create An Account starts*****************
+[INFO ] 2024-12-16 11:32:39.682 [main] magento - Clicked on Create an Account link
+[INFO ] 2024-12-16 11:32:42.342 [main] magento - clicked on Create An AccountBtn button
+[INFO ] 2024-12-16 11:32:42.417 [main] magento - ***************Verify Sign out starts*****************
+[INFO ] 2024-12-16 11:32:52.487 [main] magento - ***************Verify Login starts*****************
+[INFO ] 2024-12-16 11:32:53.814 [main] magento - Clicked on sign in link
+[INFO ] 2024-12-16 11:32:53.819 [main] magento - Sign In Page Open
+[INFO ] 2024-12-16 11:32:53.957 [main] magento - Entered email address
+[INFO ] 2024-12-16 11:32:54.060 [main] magento - Entered password
+[INFO ] 2024-12-16 11:32:56.838 [main] magento - Clicked on sign in link..
+[INFO ] 2024-12-16 11:32:58.227 [main] magento - VerifyLogin - Passed
+[INFO ] 2024-12-16 11:33:00.406 [main] magento - ***************TestCase Verify Login ends*****************
+[INFO ] 2024-12-16 11:34:15.404 [main] magento - url opened
+[INFO ] 2024-12-16 11:34:15.426 [main] magento - ***************Verify Create An Account starts*****************
+[INFO ] 2024-12-16 11:34:16.718 [main] magento - Clicked on Create an Account link
+[INFO ] 2024-12-16 11:34:19.311 [main] magento - clicked on Create An AccountBtn button
+[INFO ] 2024-12-16 11:34:19.373 [main] magento - ***************Verify Sign out starts*****************
+[INFO ] 2024-12-16 11:34:29.451 [main] magento - ***************Verify Login starts*****************
+[INFO ] 2024-12-16 11:34:30.707 [main] magento - Clicked on sign in link
+[INFO ] 2024-12-16 11:34:30.710 [main] magento - Sign In Page Open
+[INFO ] 2024-12-16 11:34:30.835 [main] magento - Entered email address
+[INFO ] 2024-12-16 11:34:30.943 [main] magento - Entered password
+[INFO ] 2024-12-16 11:34:33.686 [main] magento - Clicked on sign in link..
+[INFO ] 2024-12-16 11:37:15.426 [main] magento - url opened
+[INFO ] 2024-12-16 11:37:15.462 [main] magento - ***************Verify Sign out starts*****************
+[INFO ] 2024-12-16 11:39:49.846 [main] magento - url opened
+[INFO ] 2024-12-16 11:39:52.267 [main] magento - ***************Verify Sign out starts*****************
+[INFO ] 2024-12-16 11:40:02.553 [main] magento - ***************TestCase VerifyLogin starts*****************
+[INFO ] 2024-12-16 11:40:05.163 [main] magento - Clicked on sign in link
+[INFO ] 2024-12-16 11:40:05.167 [main] magento - Sign In Page Open
+[INFO ] 2024-12-16 11:40:05.328 [main] magento - Entered email address
+[INFO ] 2024-12-16 11:40:05.447 [main] magento - Entered password
+[INFO ] 2024-12-16 11:40:07.396 [main] magento - Clicked on sign in link..
+[INFO ] 2024-12-16 11:40:17.459 [main] magento - ***************TestCase VerifyLogin starts*****************
+[INFO ] 2024-12-16 11:40:18.840 [main] magento - Clicked on sign in link
+[INFO ] 2024-12-16 11:40:18.842 [main] magento - Sign In Page Open
+[INFO ] 2024-12-16 11:40:18.982 [main] magento - Entered email address
+[INFO ] 2024-12-16 11:40:19.075 [main] magento - Entered password
+[INFO ] 2024-12-16 11:40:21.109 [main] magento - Clicked on sign in link..
+[INFO ] 2024-12-16 11:41:26.803 [main] magento - url opened
+[INFO ] 2024-12-16 11:41:29.356 [main] magento - ***************Verify Sign out starts*****************
+[INFO ] 2024-12-16 11:41:39.669 [main] magento - ***************TestCase VerifyLogin starts*****************
+[INFO ] 2024-12-16 11:41:41.273 [main] magento - Clicked on sign in link
+[INFO ] 2024-12-16 11:41:41.277 [main] magento - Sign In Page Open
+[INFO ] 2024-12-16 11:41:41.421 [main] magento - Entered email address
+[INFO ] 2024-12-16 11:41:41.518 [main] magento - Entered password
+[INFO ] 2024-12-16 11:41:43.462 [main] magento - Clicked on sign in link..
+[INFO ] 2024-12-16 11:41:53.520 [main] magento - ***************TestCase VerifyLogin starts*****************
+[INFO ] 2024-12-16 11:41:54.705 [main] magento - Clicked on sign in link
+[INFO ] 2024-12-16 11:41:54.708 [main] magento - Sign In Page Open
+[INFO ] 2024-12-16 11:41:54.853 [main] magento - Entered email address
+[INFO ] 2024-12-16 11:41:54.955 [main] magento - Entered password
+[INFO ] 2024-12-16 11:41:56.841 [main] magento - Clicked on sign in link..
+[INFO ] 2024-12-16 11:42:48.652 [main] magento - url opened
+[INFO ] 2024-12-16 11:42:48.695 [main] magento - ***************Verify Sign out starts*****************
+[INFO ] 2024-12-16 11:47:22.672 [main] magento - url opened
+[INFO ] 2024-12-16 11:47:25.700 [main] magento - ***************Verify Sign out starts*****************
+[INFO ] 2024-12-16 11:47:36.121 [main] magento - ***************TestCase VerifyLogin starts*****************
+[INFO ] 2024-12-16 11:47:37.433 [main] magento - Clicked on sign in link
+[INFO ] 2024-12-16 11:47:37.435 [main] magento - Sign In Page Open
+[INFO ] 2024-12-16 11:47:37.588 [main] magento - Entered email address
+[INFO ] 2024-12-16 11:47:37.687 [main] magento - Entered password
+[INFO ] 2024-12-16 11:47:39.584 [main] magento - Clicked on sign in link..
+[INFO ] 2024-12-16 11:47:49.650 [main] magento - ***************TestCase VerifyLogin starts*****************
+[INFO ] 2024-12-16 11:47:50.875 [main] magento - Clicked on sign in link
+[INFO ] 2024-12-16 11:47:50.876 [main] magento - Sign In Page Open
+[INFO ] 2024-12-16 11:47:50.987 [main] magento - Entered email address
+[INFO ] 2024-12-16 11:47:51.072 [main] magento - Entered password
+[INFO ] 2024-12-16 11:47:53.651 [main] magento - Clicked on sign in link..
+[INFO ] 2024-12-16 11:50:21.217 [main] magento - url opened
+[INFO ] 2024-12-16 11:50:22.192 [main] magento - ***************TestCase VerifyLogin starts*****************
+[INFO ] 2024-12-16 11:50:24.280 [main] magento - Clicked on sign in link
+[INFO ] 2024-12-16 11:50:24.292 [main] magento - Sign In Page Open
+[INFO ] 2024-12-16 11:50:24.445 [main] magento - Entered email address
+[INFO ] 2024-12-16 11:50:24.542 [main] magento - Entered password
+[INFO ] 2024-12-16 11:50:26.393 [main] magento - Clicked on sign in link..
+[INFO ] 2024-12-16 11:50:36.487 [main] magento - ***************TestCase VerifyLogin starts*****************
+[INFO ] 2024-12-16 11:50:37.671 [main] magento - Clicked on sign in link
+[INFO ] 2024-12-16 11:50:37.672 [main] magento - Sign In Page Open
+[INFO ] 2024-12-16 11:50:37.793 [main] magento - Entered email address
+[INFO ] 2024-12-16 11:50:37.883 [main] magento - Entered password
+[INFO ] 2024-12-16 11:50:39.918 [main] magento - Clicked on sign in link..
+[INFO ] 2024-12-16 11:50:49.941 [main] magento - ***************Verify Sign out starts*****************
+[INFO ] 2024-12-16 12:02:45.686 [main] magento - url opened
+[INFO ] 2024-12-16 12:02:45.707 [main] magento - ***************Verify Sign out starts*****************
+[INFO ] 2024-12-16 12:04:09.558 [main] magento - url opened
+[INFO ] 2024-12-16 12:09:21.858 [main] magento - url opened
+[INFO ] 2024-12-16 12:09:22.816 [main] magento - ***************Verify Create An Account starts*****************
+[INFO ] 2024-12-16 12:09:25.201 [main] magento - Clicked on Create an Account link
+[INFO ] 2024-12-16 12:09:25.882 [main] magento - clicked on Create An AccountBtn button
+[INFO ] 2024-12-16 12:11:25.713 [main] magento - url opened
+[INFO ] 2024-12-16 12:11:29.727 [main] magento - ***************Verify Create An Account starts*****************
+[INFO ] 2024-12-16 12:11:34.712 [main] magento - Clicked on Create an Account link
+[INFO ] 2024-12-16 12:11:35.795 [main] magento - clicked on Create An AccountBtn button
+[INFO ] 2024-12-16 12:11:35.862 [main] magento - ***************Verify Create An Account ends*****************
+[INFO ] 2024-12-16 12:11:37.522 [main] magento - url opened
+[INFO ] 2024-12-16 12:11:39.177 [main] magento - ***************Verify Create An Account starts*****************
+[INFO ] 2024-12-16 12:11:42.591 [main] magento - Clicked on Create an Account link
+[INFO ] 2024-12-16 12:11:43.787 [main] magento - clicked on Create An AccountBtn button
+[INFO ] 2024-12-16 12:11:43.819 [main] magento - ***************Verify Create An Account ends*****************
+[INFO ] 2024-12-16 12:13:58.853 [main] magento - url opened
+[INFO ] 2024-12-16 12:13:58.881 [main] magento - ***************Verify Sign out starts*****************
+[INFO ] 2024-12-16 12:14:10.209 [main] magento - ***************Verify Create An Account starts*****************
+[INFO ] 2024-12-16 12:14:12.251 [main] magento - Clicked on Create an Account link
+[INFO ] 2024-12-16 12:14:14.716 [main] magento - clicked on Create An AccountBtn button
+[INFO ] 2024-12-16 12:14:14.832 [main] magento - ***************Verify Create An Account ends*****************
+[INFO ] 2024-12-16 12:15:10.561 [main] magento - url opened
+[INFO ] 2024-12-16 12:15:11.551 [main] magento - ***************Verify Create An Account starts*****************
+[INFO ] 2024-12-16 12:15:12.876 [main] magento - Clicked on Create an Account link
+[INFO ] 2024-12-16 12:15:13.519 [main] magento - clicked on Create An AccountBtn button
+[INFO ] 2024-12-16 12:15:13.557 [main] magento - ***************Verify Create An Account ends*****************
+[INFO ] 2024-12-16 12:15:13.564 [main] magento - ***************Verify Sign out starts*****************
+[INFO ] 2024-12-16 12:16:37.068 [main] magento - url opened
+[INFO ] 2024-12-16 12:16:38.192 [main] magento - ***************Verify Create An Account starts*****************
+[INFO ] 2024-12-16 12:16:41.878 [main] magento - Clicked on Create an Account link
+[INFO ] 2024-12-16 12:16:42.664 [main] magento - clicked on Create An AccountBtn button
+[INFO ] 2024-12-16 12:16:42.696 [main] magento - ***************Verify Create An Account ends*****************
+[INFO ] 2024-12-16 12:16:42.704 [main] magento - ***************Verify Sign out starts*****************
+[INFO ] 2024-12-16 12:17:39.871 [main] magento - url opened
+[INFO ] 2024-12-16 12:17:41.638 [main] magento - ***************Verify Create An Account starts*****************
+[INFO ] 2024-12-16 12:17:44.449 [main] magento - Clicked on Create an Account link
+[INFO ] 2024-12-16 12:17:50.941 [main] magento - clicked on Create An AccountBtn button
+[INFO ] 2024-12-16 12:17:51.031 [main] magento - ***************Verify Sign out starts*****************
+[INFO ] 2024-12-16 12:18:01.113 [main] magento - Sign Out
+[INFO ] 2024-12-16 12:18:01.114 [main] magento - ***************Verify Sign out ends*****************
+[INFO ] 2024-12-16 12:19:43.004 [main] magento - url opened
+[INFO ] 2024-12-16 12:19:44.195 [main] magento - ***************Verify Create An Account starts*****************
+[INFO ] 2024-12-16 12:19:46.031 [main] magento - Clicked on Create an Account link
+[INFO ] 2024-12-16 12:19:50.565 [main] magento - clicked on Create An AccountBtn button
+[INFO ] 2024-12-16 12:19:50.701 [main] magento - ***************Verify Create An Account ends*****************
+[INFO ] 2024-12-16 12:19:50.732 [main] magento - ***************Verify Sign out starts*****************
+[INFO ] 2024-12-16 12:19:52.774 [main] magento - Sign Out
+[INFO ] 2024-12-16 12:19:52.775 [main] magento - ***************Verify Sign out ends*****************
+[INFO ] 2024-12-16 12:39:43.020 [main] magento - url opened
+[INFO ] 2024-12-16 12:39:44.190 [main] magento - ***************Verify Create An Account starts*****************
+[INFO ] 2024-12-16 12:39:44.237 [main] magento - ***************Verify Sign out starts*****************
+[INFO ] 2024-12-16 12:39:44.573 [main] magento - ***************TestCase VerifyLogin starts*****************
+[INFO ] 2024-12-16 12:39:44.598 [main] magento - ***************TestCase VerifyLogin starts*****************
+[INFO ] 2024-12-16 12:41:54.844 [main] magento - url opened
+[INFO ] 2024-12-16 12:41:56.042 [main] magento - ***************Verify Create An Account starts*****************
+[INFO ] 2024-12-16 12:41:59.109 [main] magento - Clicked on Create an Account link
+[INFO ] 2024-12-16 12:42:08.461 [main] magento - clicked on Create An AccountBtn button
+[INFO ] 2024-12-16 12:42:08.523 [main] magento - ***************Verify Create An Account ends*****************
+[INFO ] 2024-12-16 12:42:08.536 [main] magento - ***************Verify Sign out starts*****************
+[INFO ] 2024-12-16 12:45:08.991 [main] magento - ***************TestCase VerifyLogin starts*****************
+[INFO ] 2024-12-16 12:45:11.513 [main] magento - ***************TestCase VerifyLogin starts*****************
+[INFO ] 2024-12-16 12:50:20.994 [main] magento - url opened
+[INFO ] 2024-12-16 12:50:22.259 [main] magento - ***************Verify Create An Account starts*****************
+[INFO ] 2024-12-16 12:50:22.307 [main] magento - ***************Verify Sign out starts*****************
+[INFO ] 2024-12-16 12:50:22.700 [main] magento - ***************TestCase VerifyLogin starts*****************
+[INFO ] 2024-12-16 12:50:22.764 [main] magento - ***************TestCase VerifyLogin starts*****************

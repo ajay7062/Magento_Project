@@ -1,0 +1,76 @@
+package com.magento.pageobject;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+import org.openqa.selenium.support.ui.Select;
+
+public class accountCreationDetails {
+
+	//1. create object of webdriver
+	WebDriver ldriver;
+
+	//constructor
+	public accountCreationDetails(WebDriver rdriver)
+	{
+		ldriver = rdriver;
+
+
+		PageFactory.initElements(rdriver, this);
+	}
+
+
+	//identify webelements
+	@FindBy(id = "firstname") 
+	WebElement Fname;
+
+	@FindBy(id = "lastname") 
+	WebElement Lname;
+	
+	@FindBy(id="email")
+	WebElement userMail;
+
+	@FindBy(id="password")
+	WebElement Pass;
+
+	@FindBy(id="password-confirmation")
+	WebElement PConfirm;
+
+	@FindBy(xpath="(//button[@type='submit']")
+	WebElement CreateanAccountBtn;
+
+	//identify actions to be performed on web elements
+
+	public void selectTitleMrs()
+	{
+		Fname.click();
+	}
+
+	public void selectTitleMr()
+	{
+		Lname.click();
+	}
+	public void enterCustomerFirstName(String fname)
+	{
+		userMail.sendKeys(fname);
+	}
+
+	public void enterCustomerLastName(String lname)
+	{
+		Pass.sendKeys(lname);
+	}
+
+	public void enterPassword(String pwd)
+	{
+		PConfirm.sendKeys(pwd);
+	}
+
+	public void enterAddressFirstName(String fname)
+	{
+		
+
+		CreateanAccountBtn.click();
+	}
+
+}

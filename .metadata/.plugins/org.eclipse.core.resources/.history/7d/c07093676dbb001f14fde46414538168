@@ -1,0 +1,125 @@
+package com.magento.testcases;
+
+import java.io.IOException;
+
+import org.testng.Assert;
+import org.testng.annotations.Test;
+
+import com.magento.pageobject.accountCreationDetails;
+import com.magento.pageobject.indexPage;
+import com.magento.pageobject.myAccountPage;
+import com.magento.pageobject.registeredUserAccount;
+
+
+public class TC_CreateAnAccount extends BaseClass {
+
+
+	@Test(enabled=false)
+	public void verifyCreateAccount() throws InterruptedException
+	{
+
+		logger.info("***************Verify Create An Account starts*****************"); 
+
+		indexPage pg = new indexPage(driver);
+
+		pg.clickOnCreateAccount();
+		logger.info("Clicked on Create an Account link");
+
+		accountCreationDetails accCreationPg = new accountCreationDetails(driver);
+
+		accCreationPg.enterFirstName("ramsssassa");
+		accCreationPg.enterLastName("Ssssasa");
+		accCreationPg.enterEmail("ramsssssaxssa@gmail.com");
+		accCreationPg.enterPassword("Aj12345678@aj");
+		accCreationPg.enterConPassword("Aj12345678@aj");
+		accCreationPg.clickOnCreateanAccountBtn();
+		logger.info("clicked on Create An AccountBtn button");
+
+		registeredUserAccount regUser = new registeredUserAccount(driver);
+		String userName = regUser.getUserName();
+
+		Assert.assertEquals("Account Information", userName);
+		Thread.sleep(5000);
+
+		logger.info("***************Verify Create An Account starts*****************"); 
+
+	}
+	
+	@Test(enabled=false)
+	public void VerifySignOut() throws IOException, InterruptedException 
+	{
+
+		logger.info("***************Verify Sign out starts*****************"); 
+
+		myAccountPage myAcpg = new myAccountPage(driver);
+		
+		myAcpg.clickOnAccInfo();
+		
+		
+		//myAcpg.getUserName();
+		
+		myAcpg.clickOnsignOut();
+
+		logger.info("Sign Out");
+		
+		logger.info("***************Verify Sign out ends*****************"); 
+	}
+
+
+	@Test(priority=0)
+	public void VerifyLogin() throws IOException, InterruptedException 
+	{
+
+		logger.info("***************Verify Login starts*****************"); 
+
+		indexPage pg = new indexPage(driver);
+		myAccountPage myAcpg = new myAccountPage(driver);
+		//accountCreationDetails myAccountDetails = new accountCreationDetails(driver);s
+
+		pg.clickOnSignIns();
+		logger.info("Clicked on sign in link");
+
+		accountCreationDetails loginDetails = new accountCreationDetails(driver);
+		
+		logger.info("Sign In Page Open");
+
+		loginDetails.enterLoginEmail("ramsssssaxssa@gmail.com");
+		logger.info("Entered email address");
+
+		loginDetails.enterLoginPassword("Aj12345678@aj");
+		logger.info("Entered password");
+
+		loginDetails.clickOnLoginBtn();
+		logger.info("Clicked on sign in link..");
+        Thread.sleep(5000);
+        
+        myAcpg.clickOnAccInfo();
+        myAcpg.clickOnmyAccontBtns();
+
+		//registeredUserAccount regUser = new registeredUserAccount(driver);
+		//String userName = regUser.getUserName();
+		
+		//myAccountPage myAcpg = new myAccountPage(driver);
+		String userName = myAcpg.getUserName();
+
+
+		if(userName.equals("My Account"))
+		{
+			logger.info("VerifyLogin - Passed");
+			myAcpg.clickOnsignOut();
+			Assert.assertTrue(true);
+		}
+		else
+		{
+			logger.info("VerifyLogin - Failed");
+			captureScreenShot(driver,"VerifyLogin");
+			Assert.assertTrue(false);
+		}
+
+		logger.info("***************TestCase Verify Login ends*****************"); 
+
+
+	}
+
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;CS_FrameworkSeleniumJava-master&apos; to &apos;Magento_Project&apos;" description="Rename resource &apos;CS_FrameworkSeleniumJava-master&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/CS_FrameworkSeleniumJava-master" name="Magento_Project" stamp="1734270946708" updateReferences="true"/>
+</session>
